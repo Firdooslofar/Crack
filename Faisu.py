@@ -125,8 +125,8 @@ vuln = "\033[32mVuln"
 def tlogin():
 	os.system('clear')
 	print banner
-	username = raw_input("[+] TOOL USERNAME : ")
-	passw = raw_input("[+] TOOL PASSCODE : ")
+	username = raw_input("[+] TOOL USERNAME :FIRDOOS ")
+	passw = raw_input("[+] TOOL PASSCODE :FIRDOOS ")
 	
 	if passw =="":
 		print"\033[1;91m[!] Wrong"
